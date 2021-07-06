@@ -3,7 +3,9 @@ Este projeto visa o aprendizado com as tecnologias mais atuais para desenvolvime
 👨‍💻 As tecnologias utilizadas foram:
 ReactJS;
 Typescript;
-Styled-Componenst
+Styled-Components
+
+
 
 Instalação
 Para instalá-las abra o terminal do seu computador, navegue até a pasta raiz do projeto e digite:
